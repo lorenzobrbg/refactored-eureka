@@ -1,0 +1,23 @@
+{
+  "name": "PLACE1",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "StickBallConfig": {
+        "$path": "src/ReplicatedStorage/StickBallConfig.lua"
+      }
+    },
+    "ServerScriptService": {
+      "StickBallServer": {
+        "$path": "src/ServerScriptService/StickBallServer.server.lua"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "StickBallClient": {
+          "$path": "src/StarterPlayerScripts/StickBallClient.client.lua"
+        }
+      }
+    }
+  }
+}
