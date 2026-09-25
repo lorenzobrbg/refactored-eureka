@@ -18,9 +18,22 @@ La palla si colpisce anche solo camminando o girandosi normalmente: conta la
 velocità con cui la sbarra la tocca. In basso a sinistra c'è un riquadro che
 mostra la velocità dell'ultimo colpo.
 
-## Come metterlo in PLACE1 (copia e incolla in Studio)
+## Come metterlo in PLACE1
 
-Apri **PLACE1** in Roblox Studio e crea questi 3 script con **esattamente** questi nomi:
+Questi file sono su GitHub: vanno inseriti nel place PLACE1 da Roblox Studio.
+
+### Metodo veloce: un solo incolla
+
+1. Apri **PLACE1** in Roblox Studio.
+2. Menu **View → Command Bar**.
+3. Copia **tutto** il file [`InstallInStudio.lua`](InstallInStudio.lua), incollalo nella Command Bar e premi **Invio**.
+4. Premi **Play** per provare, poi **File → Save / Publish** per salvare PLACE1.
+
+Crea da solo i 3 script qui sotto (se esistono già li sostituisce).
+
+### Metodo manuale
+
+Crea questi 3 script con **esattamente** questi nomi:
 
 | Dove (Explorer) | Tipo | Nome | Contenuto da incollare |
 | --- | --- | --- | --- |
